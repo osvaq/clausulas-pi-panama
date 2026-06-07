@@ -1,6 +1,6 @@
 # clausulas-pi-panama
 
-Skill para [Claude Cowork](https://claude.ai) que revisa cláusulas de propiedad intelectual en contratos bajo el derecho panameño, citando artículos exactos de la Ley 35 de 1996 (reformada por Ley 61 de 2012), el Decreto Ejecutivo 85 de 2017 y la Ley 64 de 2012 sobre Derecho de Autor.  - Version 1.0
+Skill para [Claude Cowork](https://claude.ai) que revisa cláusulas de propiedad intelectual en contratos bajo el derecho panameño, citando artículos exactos de la Ley 35 de 1996 (reformada por Ley 61 de 2012), el Decreto Ejecutivo 85 de 2017 y la Ley 64 de 2012 sobre Derecho de Autor.  - Version 1.0 - publicado 7 jun 2026.
 
 ---
 
